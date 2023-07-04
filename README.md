@@ -10,6 +10,10 @@ This is a simple calculator to calculate the cost of a meeting based on:
 
 This was just a quick project I did for fun. Do with it what you will!
 
+# Demo
+
+Live demo at: [https://meeting-cost-calculator.puggy.gg/]([https://meeting-cost-calculator.puggy.gg/](https://meeting-cost-calculator.puggy.gg/))
+
 ## Installation
 
 1. Clone the repository
